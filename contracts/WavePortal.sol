@@ -7,7 +7,7 @@ import "hardhat/console.sol";
 contract WavePortal {
     uint totalWaves;
     constructor() {
-        console.log("AYYY gues who just made a smart contract!");
+        console.log("AYYY gues who just made a blockchain contract!");
     }
 
     function wave() public {

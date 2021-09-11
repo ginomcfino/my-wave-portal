@@ -36,8 +36,8 @@
       ]
     },
     "/Users/ginomcfino/CODE/Cool/my-wave-portal/contracts/WavePortal.sol": {
-      "lastModificationDate": 1631304989164,
-      "contentHash": "54e6683d4552680c70be33d52708069e",
+      "lastModificationDate": 1631326102784,
+      "contentHash": "a29e826f9ace0a3655a5b1018618ba05",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
         "version": "0.8.4",
